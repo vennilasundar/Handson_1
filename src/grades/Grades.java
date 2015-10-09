@@ -4,7 +4,7 @@ package grades;
 import java.util.Scanner;
 
 public class Grades {
-
+// Just for pull request
 
     public static void main(String[] args) {
         int English,Hindi,Maths,Science,SocialScience;
